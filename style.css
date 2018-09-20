@@ -1,0 +1,41 @@
+.object {
+  text-align: center;
+  color: #7482B9;
+}
+.html {
+  background-color: #D1A1A1
+}
+.center{
+  text-align: center;
+  font-family: fantasy;
+  color: #7482B9;
+}
+.info {
+  font-family: cursive;
+  font-style: italic;
+  color: blue;
+
+}
+.image {
+  width: 5px;
+  height: 5px;
+
+}
+li {
+  font-style: italic;
+}
+.object {
+  font-family: fantasy;
+}
+.education {
+  font-family: fantasy;
+  text-align: center;
+  font-weight: bold;
+  color: #7482B9;
+}
+#title {
+  font-family: fantasy;
+  text-align: center;
+  font-weight: bold;
+  color: #7482B9;
+}
