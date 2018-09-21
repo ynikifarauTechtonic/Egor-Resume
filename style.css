@@ -1,9 +1,11 @@
 .object {
   text-align: center;
   color: #7482B9;
-  background-color: #159CC1;
+  background-color: #D1A1A1
   margin: 1px 1px 1px 1px;
   border: solid 5px;
+  font-family: fantasy;
+  text-shadow: 3px 3px red;
 }
 header{
   background-color: #D1A1A1
@@ -33,15 +35,13 @@ footer {
 
 }
 .img {
-  float: right;
+  float: left;
 
 }
 li {
   font-style: italic;
 }
-.object {
-  font-family: fantasy;
-}
+
 .education {
   font-family: fantasy;
   text-align: center;
@@ -55,7 +55,7 @@ li {
   color: #7482B9;
 }
 .footer {
-  border: 2px;
+  border: 20px;
   color: #421515;
 
 }
