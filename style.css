@@ -5,7 +5,7 @@
   margin: 1px 1px 1px 1px;
   border: solid 5px;
   font-family: fantasy;
-  text-shadow: 3px 3px red;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 header{
   background-color: #D1A1A1
@@ -27,6 +27,7 @@ footer {
   font-family: fantasy;
   color: #7482B9;
   padding: 1px 1px 1px 1px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 .info {
   font-family: cursive;
