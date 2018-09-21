@@ -1,14 +1,30 @@
 .object {
   text-align: center;
   color: #7482B9;
+  background-color: #159CC1;
+  margin: 1px 1px 1px 1px;
+  border: solid 5px;
+}
+header{
+  background-color: #D1A1A1
+
+}
+footer {
+  background-color: #511919
+
+
 }
 .html {
-  background-color: #D1A1A1
+  color: #2BB0D5;
 }
-.center{
+::selection {
+  color: red;
+}
+.center {
   text-align: center;
   font-family: fantasy;
   color: #7482B9;
+  padding: 1px 1px 1px 1px;
 }
 .info {
   font-family: cursive;
@@ -16,9 +32,8 @@
   color: blue;
 
 }
-.image {
-  width: 5px;
-  height: 5px;
+.img {
+  float: right;
 
 }
 li {
@@ -38,4 +53,13 @@ li {
   text-align: center;
   font-weight: bold;
   color: #7482B9;
+}
+.footer {
+  border: 2px;
+  color: #421515;
+
+}
+.link-youtube {
+  text-align: right;
+
 }
