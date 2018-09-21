@@ -14,10 +14,8 @@ header{
 }
 footer {
   background-color: #511919
-
-
 }
-.html {
+body {
   color: #2BB0D5;
 }
 ::selection {
@@ -44,7 +42,7 @@ footer {
 }
 li {
   font-style: italic;
-  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  text-shadow: 0 0 3px #112E36, 0 0 5px #0000FF;
 }
 
 .education {
@@ -60,7 +58,6 @@ li {
   color: #7482B9;
 }
 .footer {
-  border: 20px;
   color: #421515;
 
 }
